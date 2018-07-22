@@ -3,9 +3,20 @@
   padding : 3%;
   margin : 3%;
   width : 85%;
-  
-}
 
+}
+.parent h2{
+  text-align: left;
+}
+.parent h3{
+  text-align: left;
+}
+.parent ul{
+  text-align: left;
+}
+.parent h4{
+  text-align: left;
+}
 
 .child1{
   text-align: center;
